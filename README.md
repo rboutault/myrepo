@@ -1,3 +1,2 @@
-# myrepo
-test line
-test philippe
+ myrepo
+ my first repository
