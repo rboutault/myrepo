@@ -1,2 +1,2 @@
  myrepo
- my first repository
+ my first repository for OpenShift
